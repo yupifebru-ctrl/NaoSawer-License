@@ -1,0 +1,33 @@
+{
+  "enabled": true,
+  "licenses": [
+    {
+      "name": "Punya Nao Ini",
+      "enabled": true,
+      "userIds": [
+        9172255798
+      ],
+      "placeIds": [
+      ],
+      "universeIds": [],
+      "groupIds": [
+        450291373
+      ],
+      "expiresAt": null
+    },
+    {
+      "name": "Cust Nan",
+      "enabled": true,
+      "userIds": [
+        11
+      ],
+      "placeIds": [
+      ],
+      "universeIds": [],
+      "groupIds": [
+        22
+      ],
+      "expiresAt": null
+    }
+  ]
+}
