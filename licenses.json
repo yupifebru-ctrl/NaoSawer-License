@@ -15,19 +15,5 @@
       ],
       "expiresAt": null
     },
-    {
-      "name": "Cust Nan",
-      "enabled": true,
-      "userIds": [
-        11
-      ],
-      "placeIds": [
-      ],
-      "universeIds": [],
-      "groupIds": [
-        22
-      ],
-      "expiresAt": null
-    }
   ]
 }
