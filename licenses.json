@@ -7,13 +7,25 @@
       "userIds": [
         9172255798
       ],
-      "placeIds": [
-      ],
+      "placeIds": [],
       "universeIds": [],
       "groupIds": [
         450291373
       ],
       "expiresAt": null
     },
+    {
+      "name": "Customer Baru",
+      "enabled": true,
+      "userIds": [
+        9505182902
+      ],
+      "placeIds": [
+        123456789012345
+      ],
+      "universeIds": [],
+      "groupIds": [57162754],
+      "expiresAt": null
+    }
   ]
 }
