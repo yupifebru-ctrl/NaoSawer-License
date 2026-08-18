@@ -21,10 +21,14 @@
         9505182902
       ],
       "placeIds": [
-        123456789012345
+       
       ],
-      "universeIds": [],
-      "groupIds": [57162754],
+      "universeIds": [
+        
+      ],
+      "groupIds": [
+        57162754
+      ],
       "expiresAt": null
     }
   ]
