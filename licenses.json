@@ -15,7 +15,7 @@
       "expiresAt": null
     },
     {
-      "name": "Customer Baru",
+      "name": "Customer Nan",
       "enabled": true,
       "userIds": [
         9505182902
@@ -28,6 +28,23 @@
       ],
       "groupIds": [
         57162754
+      ],
+      "expiresAt": null
+    },
+    {
+      "name": "Znnnr dan ASP",
+      "enabled": true,
+      "userIds": [
+        9026991460
+      ],
+      "placeIds": [
+       
+      ],
+      "universeIds": [
+        
+      ],
+      "groupIds": [
+        771240822
       ],
       "expiresAt": null
     }
