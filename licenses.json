@@ -47,6 +47,23 @@
         771240822
       ],
       "expiresAt": null
-    }
+    },
+    {
+      "name": "Customer EGS",
+      "enabled": true,
+      "userIds": [
+        9242592624
+      ],
+      "placeIds": [
+       
+      ],
+      "universeIds": [
+        
+      ],
+      "groupIds": [
+        93078372
+      ],
+      "expiresAt": null
+    },
   ]
 }
